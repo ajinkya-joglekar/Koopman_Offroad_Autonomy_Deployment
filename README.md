@@ -119,7 +119,7 @@ Adaptive MMPK with Load-transfer based Reachability Planner. Finally, all the mo
 **Hardware deployment videos** <br>
 
 ***Experiment II-A:*** <br>
-![Exp II-A Run 1](./Videos/Exp%20II-A/Run1.mp4)
+![Exp II-A Run 1]('https://youtu.be/wTq5Eq4f6iM?si=7IWAElwKmhtsJxPH')
 
 | [![Video Title](https://youtu.be/TAX-1FG5c20/0.jpg)](https://youtu.be/TAX-1FG5c20) |<video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>     |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
