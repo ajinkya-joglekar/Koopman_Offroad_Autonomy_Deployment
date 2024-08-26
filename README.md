@@ -3,6 +3,13 @@ This repository serves as a supplemental documentation for capturing the framewo
 experimental setup and results for 
 Static and Adaptive Multi-Model Parameterized Koopman framework.
 
+## Table of Contents
+- [Abstract](#abstract)
+- [Repo Organization](#repository-organization)
+- [MMPK Framework](#mmpk-framework)
+- [Experimental Setup](#experiment-setup)
+- [Results](#results)
+- [Contact](#contact)
 
 
 ### Abstract:
@@ -112,12 +119,17 @@ Adaptive MMPK with Load-transfer based Reachability Planner. Finally, all the mo
 **Hardware deployment videos** <br>
 
 ***Experiment II-A:*** <br>
+![Exp II-A Run 1](./Videos/Exp%20II-A/Run1.mp4)
+
+| [![Video Title](https://www.youtube.com/watch?v=wTq5Eq4f6iM&list=PLyo7FWkVkzHo7g5Ae_l6jtmZh0z27QRXc&index=1/0.jpg)](https://www.youtube.com/watch?v=wTq5Eq4f6iM&list=PLyo7FWkVkzHo7g5Ae_l6jtmZh0z27QRXc&index=1) |<video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| <video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>                                                                                                                               | <video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>    |
 
 
-|<video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>|<video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>     |
-|-----|-----|
-|<video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>     | <video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>    |
-
+## Contact
+Ajinkya Joglekar
+- [Email](mailto:ajoglek@clemson.edu) 📧
+- [LinkedIn](https://www.linkedin.com/in/ajinkyajoglekar/) 🔗
 
 
 
