@@ -121,7 +121,7 @@ Adaptive MMPK with Load-transfer based Reachability Planner. Finally, all the mo
 ***Experiment II-A:*** <br>
 ![Exp II-A Run 1](./Videos/Exp%20II-A/Run1.mp4)
 
-| [![Video Title](https://www.youtube.com/watch?v=wTq5Eq4f6iM&list=PLyo7FWkVkzHo7g5Ae_l6jtmZh0z27QRXc&index=1/0.jpg)](https://www.youtube.com/watch?v=wTq5Eq4f6iM&list=PLyo7FWkVkzHo7g5Ae_l6jtmZh0z27QRXc&index=1) |<video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>     |
+| [![Video Title](https://youtu.be/TAX-1FG5c20/0.jpg)](https://youtu.be/TAX-1FG5c20) |<video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>     |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | <video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>                                                                                                                               | <video src="./Videos/Exp II-A/Run1.mp4" width="320" height="240" controls></video>    |
 
