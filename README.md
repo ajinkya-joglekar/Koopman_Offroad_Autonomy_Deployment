@@ -41,7 +41,8 @@ operations, laying the groundwork enabling next-generation
 UGVs to expand their operating domains even further.
 
 **Paper (Preprint)**: </br>
-Coming Soon!
+[Modeling and Control of Off-road Autonomous Vehicles with Situationally Aware Data-Driven Framework](https://www.researchgate.net/publication/383427789_Modeling_and_Control_of_Off-road_Autonomous_Vehicles_with_Situationally_Aware_Data-Driven_Framework)
+
 
 
 ### Repository Organization
@@ -133,41 +134,73 @@ Adaptive MMPK with Load-transfer based Reachability Planner. Finally, all the mo
 | **Exp II-A Run 3**                                                                                                   | **Exp II-A Run 4**                                                                                                   |
 
 
+## Experiment II-B Runs
+
+| [![Exp II-B Run 1](https://img.youtube.com/vi/TAX-1FG5c20/0.jpg)](https://youtu.be/TAX-1FG5c20?si=KJsR3kxuvzbAmSxA) | [![Exp II-B Run 2](https://img.youtube.com/vi/bFwbd5NEEMc/0.jpg)](https://youtu.be/bFwbd5NEEMc?si=YigCsTXfDwuvB378) |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Exp II-B Run 1**                                                                                                  | **Exp II-B Run 2**                                                                                                  |
+| [![Exp II-B Run 3](https://img.youtube.com/vi/ycS-KdsHn-w/0.jpg)](https://youtu.be/ycS-KdsHn-w?si=vZGmGkNwXSCKhNFg)| [![Exp II-B Run 4](https://img.youtube.com/vi/hBYvE3paiuU/0.jpg)](https://youtu.be/hBYvE3paiuU?si=IGvcJKY0wQfkgqCh) |
+| **Exp II-B Run 3**                                                                                                  | **Exp II-B Run 4**                                                                                                  |
+
+
+
+## Experiment II-C Runs
+
+| [![Exp II-C Run 1](https://img.youtube.com/vi/zec6pz_dvSY/0.jpg)](https://youtu.be/zec6pz_dvSY?si=e2tqhHDc6ycaB3Xn)| [![Exp II-C Run 2](https://img.youtube.com/vi/Bbga9nzkVNI/0.jpg)](https://youtu.be/Bbga9nzkVNI?si=8lFSmf_ZetaAF9VI) |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Exp II-C Run 1**                                                                                                  | **Exp II-C Run 2**                                                                                                  |
+| [![Exp II-C Run 3](https://img.youtube.com/vi/uOlj0JrO6Og/0.jpg)](https://youtu.be/uOlj0JrO6Og?si=Ssu04pnQO5tys_oG) | [![Exp II-C Run 4](https://img.youtube.com/vi/sHYqvzCJ6kU/0.jpg)](https://youtu.be/sHYqvzCJ6kU?si=11NCtCL5f1YEA6Vu) |
+| **Exp II-C Run 3**                                                                                                  | **Exp II-C Run 4**                                                                                                  |
+
+
+[//]: # (## Experiment II-B Runs/Experiment II-C Runs &#40;coming soon...&#41;)
 
 ## Contact
 Ajinkya Joglekar
 - [Email](mailto:ajoglek@clemson.edu) 📧
 - [LinkedIn](https://www.linkedin.com/in/ajinkyajoglekar/) 🔗
+- [ResearchGate](https://www.researchgate.net/profile/Ajinkya-Joglekar/research)
+
+## Citations:
+This work represents the culmination of two years of research on Koopman Theory applied to Uncrewed Ground Vehicles (UGVs). If you find this research valuable, I encourage you to explore my other papers. If you utilize any part of this dataset in your own research, please consider citing the following papers:
+
+
+ [Data-Driven Modeling and Experimental Validation of Autonomous Vehicles Using Koopman Operator](https://ieeexplore.ieee.org/abstract/document/10341797)
+```bibtex
+@INPROCEEDINGS{10341797,
+  author={Joglekar, Ajinkya and Sutavani, Sarang and Samak, Chinmay and Samak, Tanmay and Kosaraju, Krishna Chaitanya and Smereka, Jonathon and Gorsich, David and Vaidya, Umesh and Krovi, Venkat},
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Data-Driven Modeling and Experimental Validation of Autonomous Vehicles Using Koopman Operator}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={9442-9447},
+  keywords={Location awareness;Analytical models;Trajectory tracking;Computational modeling;Predictive models;Vehicle dynamics;Standards},
+  doi={10.1109/IROS55552.2023.10341797}
+}
+```
 
 
 
-[//]: # ()
-[//]: # (```bibtex)
 
-[//]: # ()
-[//]: # ()
-[//]: # (@article{AutoDRIVE-Ecosystem-2023,)
+[Expanding Autonomous Ground Vehicle Navigation Capabilities through a Multi-Model Parameterized Koopman Framework](https://www.researchgate.net/publication/380152547_Expanding_Autonomous_Ground_Vehicle_Navigation_Capabilities_through_a_Multi-Model_Parameterized_Koopman_Framework)
+```bibtex
+@article{joglekar2024expanding,
+  title={Expanding Autonomous Ground Vehicle Navigation Capabilities through a Multi-Model Parameterized Koopman Framework},
+  author={Joglekar, Ajinkya and Samak, Chinmay and Samak, Tanmay and Krovi, Venkat and Vaidya, Umesh},
+  year={2024}
+}
+```
 
-[//]: # (author = {Samak, Tanmay and Samak, Chinmay and Kandhasamy, Sivanathan and Krovi, Venkat and Xie, Ming},)
-
-[//]: # (title = {AutoDRIVE: A Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Autonomous Driving Research &amp; Education},)
-
-[//]: # (journal = {Robotics},)
-
-[//]: # (volume = {12},)
-
-[//]: # (year = {2023},)
-
-[//]: # (number = {3},)
-
-[//]: # (article-number = {77},)
-
-[//]: # (url = {https://www.mdpi.com/2218-6581/12/3/77},)
-
-[//]: # (issn = {2218-6581},)
-
-[//]: # (doi = {10.3390/robotics12030077})
-
-[//]: # (})
-
-[//]: # (```)
+[Analytical Construction of Koopman EDMD Candidate Functions for Optimal Control of Ackermann-Steered Vehicles](https://www.sciencedirect.com/science/article/pii/S2405896323024266)
+```bibtex
+@article{joglekar2023analytical,
+  title={Analytical Construction of Koopman EDMD Candidate Functions for Optimal Control of Ackermann-Steered Vehicles},
+  author={Joglekar, Ajinkya and Samak, Chinmay and Samak, Tanmay and Kosaraju, Krishna Chaitanya and Smereka, Jonathon and Brudnak, Mark and Gorsich, David and Krovi, Venkat and Vaidya, Umesh},
+  journal={IFAC-PapersOnLine},
+  volume={56},
+  number={3},
+  pages={619--624},
+  year={2023},
+  publisher={Elsevier}
+}
