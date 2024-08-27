@@ -124,12 +124,13 @@ Adaptive MMPK with Load-transfer based Reachability Planner. Finally, all the mo
 
 [//]: # ()
 [//]: # ([![Watch the video]&#40;https://img.youtube.com/vi/wTq5Eq4f6iM/0.jpg&#41;]&#40;https://youtu.be/wTq5Eq4f6iM?si=7IWAElwKmhtsJxPH&#41;)
+## Experiment II-A Runs
 
-| [![Exp II-A Run 1](https://img.youtube.com/vi/wTq5Eq4f6iM/0.jpg)](https://youtu.be/wTq5Eq4f6iM?si=3vjX0J3MycQsVdj0)| [![Exp II-A Run 2](https://img.youtube.com/vi/yM7nX5eJk58/0.jpg)](https://youtu.be/yM7nX5eJk58?si=2kew0-K0siW8rKui) |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| [![Exp II-A Run 3](https://img.youtube.com/vi/5urTBvH2cn4/0.jpg)](https://youtu.be/5urTBvH2cn4?si=cZIcjJ669PdxfQzt) | [![Exp II-A Run 4](https://img.youtube.com/vi/FukithtZAyA/0.jpg)](https://youtu.be/FukithtZAyA?si=Yzc_RBm-8sZkkXz5) |
-
-
+| [![Exp II-A Run 1](https://img.youtube.com/vi/wTq5Eq4f6iM/0.jpg)](https://youtu.be/wTq5Eq4f6iM?si=3vjX0J3MycQsVdj0) | [![Exp II-A Run 2](https://img.youtube.com/vi/yM7nX5eJk58/0.jpg)](https://youtu.be/yM7nX5eJk58?si=2kew0-K0siW8rKui) |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Exp II-A Run 1**                                                                                                   | **Exp II-A Run 2**                                                                                                   |
+| [![Exp II-A Run 3](https://img.youtube.com/vi/5urTBvH2cn4/0.jpg)](https://youtu.be/5urTBvH2cn4?si=cZIcjJ669PdxfQzt)  | [![Exp II-A Run 4](https://img.youtube.com/vi/FukithtZAyA/0.jpg)](https://youtu.be/FukithtZAyA?si=Yzc_RBm-8sZkkXz5)  |
+| **Exp II-A Run 3**                                                                                                   | **Exp II-A Run 4**                                                                                                   |
 
 
 
