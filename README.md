@@ -51,7 +51,7 @@ UGVs to expand their operating domains even further.
 
 ### MMPK Framework
 
-![Framework](./Figures/MMPK_Offroad_Workflow.png)
+![Framework](https://github.com/ajinkya-joglekar/Koopman_Offroad_Autonomy_Deployment/blob/main/Figures/MMPK_offroad_workflow.png)
 
 The framework can be broken down into following process flows.</br>
 
