@@ -139,7 +139,7 @@ Adaptive MMPK with Load-transfer based Reachability Planner. Finally, all the mo
 | [![Exp II-B Run 1](https://img.youtube.com/vi/TAX-1FG5c20/hqdefault.jpg)](https://youtu.be/TAX-1FG5c20?si=k2F2nqD_uWDOa6G2) | [![Exp II-B Run 2](https://img.youtube.com/vi/bFwbd5NEEMc/hqdefault.jpg)](https://youtu.be/bFwbd5NEEMc?si=asEJQ9FE0A4iSTTV) |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | **Exp II-B Run 1**                                                                                                  | **Exp II-B Run 2**                                                                                                  |
-| [![Exp II-B Run 3](https://img.youtube.com/vi/dn9nijezPf0/hqdefault.jpg)](https://youtu.be/dn9nijezPf0?si=N8dszoNMLUDlLH76)| [![Exp II-B Run 4](https://img.youtube.com/vi/hBYvE3paiuU/hqdefault.jpg)](https://youtu.be/hBYvE3paiuU?si=K55GkxS34h9-PK2X) |
+| [![Exp II-B Run 3](https://img.youtube.com/vi/CvS8pTVIZzc/hqdefault.jpg)](https://youtu.be/CvS8pTVIZzc?si=x3EcvUvXPFisBaeF)| [![Exp II-B Run 4](https://img.youtube.com/vi/hBYvE3paiuU/hqdefault.jpg)](https://youtu.be/hBYvE3paiuU?si=K55GkxS34h9-PK2X) |
 | **Exp II-B Run 3**                                                                                                  | **Exp II-B Run 4**                                                                                                  |
 
 
