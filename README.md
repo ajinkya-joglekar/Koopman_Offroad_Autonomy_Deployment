@@ -127,29 +127,29 @@ Adaptive MMPK with Load-transfer based Reachability Planner. Finally, all the mo
 [//]: # ([![Watch the video]&#40;https://img.youtube.com/vi/wTq5Eq4f6iM/0.jpg&#41;]&#40;https://youtu.be/wTq5Eq4f6iM?si=7IWAElwKmhtsJxPH&#41;)
 ## Experiment II-A Runs
 
-| [![Exp II-A Run 1](https://img.youtube.com/vi/wTq5Eq4f6iM/0.jpg)](https://youtu.be/wTq5Eq4f6iM?si=3vjX0J3MycQsVdj0) | [![Exp II-A Run 2](https://img.youtube.com/vi/yM7nX5eJk58/0.jpg)](https://youtu.be/yM7nX5eJk58?si=2kew0-K0siW8rKui) |
+| [![Exp II-A Run 1](https://img.youtube.com/vi/wTq5Eq4f6iM/hqdefault.jpg)](https://youtu.be/wTq5Eq4f6iM?si=KaZJqXWO3yNcG3bs) | [![Exp II-A Run 2](https://img.youtube.com/vi/yYlnjDdXbZ0/hqdefault.jpg)](https://youtu.be/yYlnjDdXbZ0?si=RT0cZwxBZtdYBEWp)|
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Exp II-A Run 1**                                                                                                   | **Exp II-A Run 2**                                                                                                   |
-| [![Exp II-A Run 3](https://img.youtube.com/vi/5urTBvH2cn4/0.jpg)](https://youtu.be/5urTBvH2cn4?si=cZIcjJ669PdxfQzt)  | [![Exp II-A Run 4](https://img.youtube.com/vi/FukithtZAyA/0.jpg)](https://youtu.be/FukithtZAyA?si=Yzc_RBm-8sZkkXz5)  |
+| [![Exp II-A Run 3](https://img.youtube.com/vi/1rpZeyKL9wg/hqdefault.jpg)](https://youtu.be/1rpZeyKL9wg?si=Fg32JKmwhF9l8aEC)  | [![Exp II-A Run 4](https://img.youtube.com/vi/Xx7AT6N8b_8/hqdefault.jpg)](https://youtu.be/Xx7AT6N8b_8?si=wE52PS7vd0l0etwc)  |
 | **Exp II-A Run 3**                                                                                                   | **Exp II-A Run 4**                                                                                                   |
 
 
 ## Experiment II-B Runs
 
-| [![Exp II-B Run 1](https://img.youtube.com/vi/TAX-1FG5c20/0.jpg)](https://youtu.be/TAX-1FG5c20?si=KJsR3kxuvzbAmSxA) | [![Exp II-B Run 2](https://img.youtube.com/vi/bFwbd5NEEMc/0.jpg)](https://youtu.be/bFwbd5NEEMc?si=YigCsTXfDwuvB378) |
+| [![Exp II-B Run 1](https://img.youtube.com/vi/TAX-1FG5c20/hqdefault.jpg)](https://youtu.be/TAX-1FG5c20?si=k2F2nqD_uWDOa6G2) | [![Exp II-B Run 2](https://img.youtube.com/vi/bFwbd5NEEMc/hqdefault.jpg)](https://youtu.be/bFwbd5NEEMc?si=asEJQ9FE0A4iSTTV) |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | **Exp II-B Run 1**                                                                                                  | **Exp II-B Run 2**                                                                                                  |
-| [![Exp II-B Run 3](https://img.youtube.com/vi/ycS-KdsHn-w/0.jpg)](https://youtu.be/ycS-KdsHn-w?si=vZGmGkNwXSCKhNFg)| [![Exp II-B Run 4](https://img.youtube.com/vi/hBYvE3paiuU/0.jpg)](https://youtu.be/hBYvE3paiuU?si=IGvcJKY0wQfkgqCh) |
+| [![Exp II-B Run 3](https://img.youtube.com/vi/dn9nijezPf0/hqdefault.jpg)](https://youtu.be/dn9nijezPf0?si=N8dszoNMLUDlLH76)| [![Exp II-B Run 4](https://img.youtube.com/vi/hBYvE3paiuU/hqdefault.jpg)](https://youtu.be/hBYvE3paiuU?si=K55GkxS34h9-PK2X) |
 | **Exp II-B Run 3**                                                                                                  | **Exp II-B Run 4**                                                                                                  |
 
 
 
 ## Experiment II-C Runs
 
-| [![Exp II-C Run 1](https://img.youtube.com/vi/zec6pz_dvSY/0.jpg)](https://youtu.be/zec6pz_dvSY?si=e2tqhHDc6ycaB3Xn)| [![Exp II-C Run 2](https://img.youtube.com/vi/Bbga9nzkVNI/0.jpg)](https://youtu.be/Bbga9nzkVNI?si=8lFSmf_ZetaAF9VI) |
+| [![Exp II-C Run 1](https://img.youtube.com/vi/mrv5cq-9kf4/hqdefault.jpg)](https://youtu.be/mrv5cq-9kf4?si=-2TDJbhn7hlCP6wP)| [![Exp II-C Run 2](https://img.youtube.com/vi/4v4wX91epK0/hqdefault.jpg)](https://youtu.be/4v4wX91epK0?si=BWlgiAVFiNe45ZuA) |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | **Exp II-C Run 1**                                                                                                  | **Exp II-C Run 2**                                                                                                  |
-| [![Exp II-C Run 3](https://img.youtube.com/vi/uOlj0JrO6Og/0.jpg)](https://youtu.be/uOlj0JrO6Og?si=Ssu04pnQO5tys_oG) | [![Exp II-C Run 4](https://img.youtube.com/vi/sHYqvzCJ6kU/0.jpg)](https://youtu.be/sHYqvzCJ6kU?si=11NCtCL5f1YEA6Vu) |
+| [![Exp II-C Run 3](https://img.youtube.com/vi/t-_JJ8hOccQ/hqdefault.jpg)](https://youtu.be/t-_JJ8hOccQ?si=xVr7z4VSWAAj98WH) | [![Exp II-C Run 4](https://img.youtube.com/vi/USJCNfV1iCU/hqdefault.jpg)](https://youtu.be/USJCNfV1iCU?si=EgOmzQTyW6vSehC0) |
 | **Exp II-C Run 3**                                                                                                  | **Exp II-C Run 4**                                                                                                  |
 
 
